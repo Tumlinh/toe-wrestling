@@ -1,0 +1,13 @@
+# Score (player\tscore)
+p Shuppiluliuma	8
+p Pencilvester	6
+p Barbamama	4
+p Cambacérès	0
+
+# Remaining matches (player1\tplayer2\tnb_matches)
+m Shuppiluliuma	Pencilvester	3
+m Shuppiluliuma	Barbamama	3
+m Shuppiluliuma	Cambacérès	3
+m Pencilvester	Barbamama	3
+m Pencilvester	Cambacérès	3
+m Barbamama	Cambacérès	3
